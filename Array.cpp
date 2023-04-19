@@ -9,8 +9,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 #include <iostream>
 #include <string>
 using namespace std;
-int
-main ()
+int main ()
 {
 
   cout << " ASHRA MUBASHRA SAHABA NAMES. " << "\n";
